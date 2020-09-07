@@ -8,4 +8,7 @@ public class Dugujianfa {
     public static void main(String[] args) {
         System.out.println("独孤剑法真牛");
     }
+    public void fight(){
+        System.out.println("风清扬真牛");
+    }
 }
