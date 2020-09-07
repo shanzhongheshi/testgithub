@@ -11,4 +11,7 @@ public class Dugujianfa {
     public void fight(){
         System.out.println("风清扬真牛");
     }
+    public void saygoogbye(){
+        System.out.println("大师兄要走了");
+    }
 }
