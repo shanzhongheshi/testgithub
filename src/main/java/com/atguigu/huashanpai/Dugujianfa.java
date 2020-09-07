@@ -14,4 +14,7 @@ public class Dugujianfa {
     public void saygoogbye(){
         System.out.println("大师兄要走了");
     }
+    public void thankyou(){
+        System.out.println("thankyou");
+    }
 }
